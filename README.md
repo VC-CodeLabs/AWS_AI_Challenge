@@ -20,6 +20,8 @@ List of all AWS AI services that offer Free Tier usage: [https://aws.amazon.com/
   - Builds conversational interfaces (chatbots);
   - Free Tier: 10,000 text requests and 5,000 speech requests per month for the first 12 months.
  
+Use of online resources, tutorials, and AI is highly encouraged. The goal of this challenge is to explore the AI services that AWS offers. 
+ 
 ### Submissions
 Please submit all of your source code as a ZIP file through the CodeLabs UI. The language choice does not matter for this challenge.
 
